@@ -1,0 +1,22 @@
+.menu{
+list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top:10px;
+    right:30px;
+    cursor: pointer;
+}
+.abc{
+    float: left;
+    color: aqua;
+    padding-top:5px;
+    padding-right:5px;
+ padding-left: 5px;
+    padding-bottom: 5px;
+    font-family: monospace;
+    font-size: 20px;
+}
+.abc:hover
+{
+    background-color: blueviolet;
+}
